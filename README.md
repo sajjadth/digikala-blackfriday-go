@@ -15,9 +15,9 @@ git clone https://github.com/sajjadth/digikala-blackfriday-go.git
      ```
    * build for production:
      ```
-     go build
+     go build -o digikala-blackfriday
      ```
    * run the bundled dist folder in production mode:
      ```
-     ./digikala-blackfriday.exe
+     ./digikala-blackfriday
      ```
