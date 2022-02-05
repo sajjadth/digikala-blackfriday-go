@@ -8,16 +8,16 @@ git clone https://github.com/sajjadth/digikala-blackfriday-go.git
    ```
    go install
    ```
-2. run the project:
-   *developer mode:
-    ```
-    go run .
-    ```
-   *build for production:
-    ```
-    go build
-    ```
-   *run the bundled dist folder in production mode:
-    ```
-    ./digikala-blackfriday.exe
-    ```
+2. run the project:<br/>
+   * developer mode:
+     ```
+     go run .
+     ```
+   * build for production:
+     ```
+     go build
+     ```
+   * run the bundled dist folder in production mode:
+     ```
+     ./digikala-blackfriday.exe
+     ```
